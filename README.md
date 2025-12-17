@@ -134,4 +134,4 @@ Python Dashboard
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 👉 Click here to open the interactive version:  
-https://tus2014ar.github.io/Alzheimer-s-Market-Overview---United-States/DasboardPythonFinal.html
+https://tus2014ar.github.io/Alzheimer-s-Market-Overview---United-States/outputs/DasboardPythonFinal.html
