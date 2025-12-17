@@ -131,7 +131,7 @@ Python Dashboard
 
 ## 📊 Python Interactive Dashboard Preview
 
-<img src="python_dashboard_preview.png" alt="Python Dashboard Preview" width="100%">
+![Alzheimer's TRx Market Dashboard](PythonDashboardpng.png)
 
 👉 Click here to download an interactive version:  
 https://github.com/tus2014ar/Alzheimer-s-Market-Overview---United-States/blob/b6f8ebbbce9bc7e35e445472415fa05856f8f562/outputs/DasboardPythonFinal.html
