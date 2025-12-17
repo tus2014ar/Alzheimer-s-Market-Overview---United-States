@@ -127,4 +127,11 @@ In this project, **Python was chosen as the primary implementation** due to its 
 
 ---
 
-## Repository Structure
+Python Dashboard
+
+## Dashboard Preview
+
+![Dashboard Preview](assets/dashboard_preview.png)
+
+👉 Click here to open the interactive version:  
+https://tus2014ar.github.io/Alzheimer-s-Market-Overview---United-States/DasboardPythonFinal.html
