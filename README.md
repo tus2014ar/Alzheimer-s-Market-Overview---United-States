@@ -131,7 +131,7 @@ Python Dashboard
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+<img src="assets/python_dashboard_preview.png" alt="Python Dashboard Preview" width="100%">
 
 👉 Click here to open the interactive version:  
 https://github.com/tus2014ar/Alzheimer-s-Market-Overview---United-States/blob/b6f8ebbbce9bc7e35e445472415fa05856f8f562/outputs/DasboardPythonFinal.html
