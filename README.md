@@ -129,7 +129,9 @@ In this project, **Python was chosen as the primary implementation** due to its 
 
 Python Dashboard
 
-## Dashboard Preview
+## 📊 Python Interactive Dashboard Preview
+
+![Alzheimer's TRx Market Dashboard - Python](assets/PythonDashboardpng.png)
 
 <img src="assets/python_dashboard_preview.png" alt="Python Dashboard Preview" width="100%">
 
